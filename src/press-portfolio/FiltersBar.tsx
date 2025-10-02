@@ -1,5 +1,5 @@
 // File: src/press-portfolio/FiltersBar.tsx
-import { Search, SortAsc } from "lucide-react";
+import { Search } from "lucide-react";
 
 export function FiltersBar({
                                query, setQuery, sort, setSort,
